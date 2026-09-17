@@ -15,7 +15,7 @@
 ## 📂 项目文件导航
 为了方便查看，我把相关资料整理在下方：
 *   👉 **[点击这里查看配表信息](https://github.com/muYan015/my-works/tree/main/GameJam/3D%E4%BC%91%E9%97%B2%E6%B8%B8%E6%88%8F/%E9%85%8D%E8%A1%A8)** 
-*   👉 **[点击这里查看分镜头脚本](3D休闲游戏/产出（策划案、分镜等）/分镜.docx)** 
+*   👉 **[点击这里查看更多产出](https://github.com/muYan015/my-works/tree/main/GameJam/3D%E4%BC%91%E9%97%B2%E6%B8%B8%E6%88%8F/%E4%BA%A7%E5%87%BA%EF%BC%88%E7%AD%96%E5%88%92%E6%A1%88%E3%80%81%E5%88%86%E9%95%9C%E7%AD%89%EF%BC%89)** 
 
 ## 🖼️ 游戏画面展示
 *![游戏截图](游戏截图.jpg))
