@@ -18,7 +18,7 @@
 *   👉 **[点击这里查看更多产出](https://github.com/muYan015/my-works/tree/main/GameJam/3D%E4%BC%91%E9%97%B2%E6%B8%B8%E6%88%8F/%E4%BA%A7%E5%87%BA%EF%BC%88%E7%AD%96%E5%88%92%E6%A1%88%E3%80%81%E5%88%86%E9%95%9C%E7%AD%89%EF%BC%89)** 
 
 ## 🖼️ 游戏画面展示
-![游戏截图](游戏截图.jpg))
+![游戏截图](https://github.com/muYan015/my-works/blob/main/GameJam/3D%E4%BC%91%E9%97%B2%E6%B8%B8%E6%88%8F/%E4%BA%A7%E5%87%BA%EF%BC%88%E7%AD%96%E5%88%92%E6%A1%88%E3%80%81%E5%88%86%E9%95%9C%E7%AD%89%EF%BC%89/%E6%B8%B8%E6%88%8F%E6%88%AA%E5%9B%BE.jpg)
 ![游戏截图](游戏截图2.jpg))
 ![游戏截图](游戏截图3.jpg))
 
